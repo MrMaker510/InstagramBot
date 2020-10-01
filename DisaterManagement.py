@@ -43,3 +43,4 @@ def Location(insta_username):
             print("End of images...")
     else:
         print"Request failed."
+##It works 100%
